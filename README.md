@@ -1,2 +1,5 @@
-# lang-learn
-Learning python by colab
+# lang-sample
+
+## Python
+
+- notebook for colab
